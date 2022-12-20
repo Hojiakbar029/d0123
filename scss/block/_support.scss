@@ -3,13 +3,19 @@
     align-items: center;
     justify-content: center;
 }
+
+.support__inner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .support__banner{
     margin-top: 185px;
-    margin-left: 142px;
+
 }
 .support__info{
     height: 250px;
-    margin-right: 135px;
+    margin-left: 135px;
     h6{
         font-style: normal;
         font-weight: 600;

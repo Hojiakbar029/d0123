@@ -1,0 +1,37 @@
+.project__inner{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 960px;
+    height: 340px;
+    margin-top: 157px;
+    border: 1px solid rgba(0, 0, 0, 0.293);
+    background-color: $lightBlue;
+    border-radius: 25px;
+    border: none;
+}
+.project__info{
+    padding-top: 40px;
+}
+.project__info button{
+    padding: 13px 35px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    margin-top: 60px;
+    color: $lightBlue;
+    font-size: 20px;
+}
+.project__info h4{
+    font-style: normal;
+    width: 450px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 151.4%;
+    color: white;
+}
+.project__banner{
+    background: url(featured_01.png);
+    filter: drop-shadow(0px 0px 32px rgba(0, 0, 0, 0.15));
+    border-radius: 5px;
+}

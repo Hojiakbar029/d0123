@@ -1,0 +1,80 @@
+.business__info h2{
+    margin-top: 150px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 51px;
+}
+.business__info p{
+    margin-top: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 26px;
+}
+.business__plan{
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.299);
+    border-radius: 10px;
+    text-align: center;
+}
+.business__plan img{
+    border-radius: 10px;
+}
+.business__plan p{
+    padding-top: 12px;
+}
+.business__plan b{
+    width: 194px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.nav{
+    display: flex;
+    height: 380px;
+    padding-top: 25px;
+}
+.business__plan1{
+    margin-left: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.296);
+    border-radius: 10px;
+    text-align: center;
+}
+.business__plan1 img{
+    border-radius: 10px;
+}
+.business__plan1 p{
+    padding-top: 12px;
+}
+.business__plan1 b{
+    width: 194px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.business__plan2{
+    margin-left: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.299);
+    border-radius: 10px;
+    text-align: center;
+}
+.business__plan2 img{ 
+    border-radius: 10px;
+}
+.business__plan2 p{
+    padding-top: 12px;
+}
+.business__plan2 b{
+    width: 194px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.business__btn{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: block; 
+}

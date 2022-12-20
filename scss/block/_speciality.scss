@@ -59,3 +59,9 @@
     width: 175px;
     display: block;
 }
+
+@media(max-width:1120px){
+    .speciality__list{
+        flex-wrap: wrap;
+    }
+}

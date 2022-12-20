@@ -1,0 +1,41 @@
+.process{
+    margin-top: 160px;
+    background-image: url(../../img/Bg-after.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
+.process__inner{
+    width: 960px;
+}
+
+.process__inner h2{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.process__inner p{
+    margin-top: 16px;
+    width: 530px;
+    display: flex;
+    text-align: center;
+    margin-left: 190px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+.process__btn{
+    background: $lightBlue;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin: 0 auto;
+    margin-top: 60px;
+    width: 175px;
+    display: block;
+}
